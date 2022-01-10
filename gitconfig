@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Johannes.Lumma@gmail.com
+	name = Johannes Lumma
